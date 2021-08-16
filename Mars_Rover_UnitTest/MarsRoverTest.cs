@@ -1,5 +1,5 @@
 ﻿using System;
-using Mars_Rover_Repo.Classes;
+using Mars_Rover.Repo.Classes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Mars_Rover_UnitTest
@@ -27,7 +27,7 @@ namespace Mars_Rover_UnitTest
             secondRover.Process("MMRMMRMRRM");
             Assert.AreEqual(secondRover.ToString(), "5 1 E");
         }
-        
+
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
         public void IncorrectInput()

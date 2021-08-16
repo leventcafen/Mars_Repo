@@ -1,7 +1,0 @@
-C:\Users\200134\Desktop\HepsiBurada\Mars_Rover_Repo\Mars_Rover_Repo\bin\Debug\Mars_Rover_Repo.exe.config
-C:\Users\200134\Desktop\HepsiBurada\Mars_Rover_Repo\Mars_Rover_Repo\bin\Debug\Mars_Rover_Repo.exe
-C:\Users\200134\Desktop\HepsiBurada\Mars_Rover_Repo\Mars_Rover_Repo\bin\Debug\Mars_Rover_Repo.pdb
-C:\Users\200134\Desktop\HepsiBurada\Mars_Rover_Repo\Mars_Rover_Repo\obj\Debug\Mars_Rover_Repo.csprojAssemblyReference.cache
-C:\Users\200134\Desktop\HepsiBurada\Mars_Rover_Repo\Mars_Rover_Repo\obj\Debug\Mars_Rover_Repo.csproj.CoreCompileInputs.cache
-C:\Users\200134\Desktop\HepsiBurada\Mars_Rover_Repo\Mars_Rover_Repo\obj\Debug\Mars_Rover_Repo.exe
-C:\Users\200134\Desktop\HepsiBurada\Mars_Rover_Repo\Mars_Rover_Repo\obj\Debug\Mars_Rover_Repo.pdb

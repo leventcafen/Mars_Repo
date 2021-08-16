@@ -1,0 +1,12 @@
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/bin/Debug/netcoreapp3.1/Mars_Rover.Repo.deps.json
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/bin/Debug/netcoreapp3.1/Mars_Rover.Repo.runtimeconfig.json
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/bin/Debug/netcoreapp3.1/Mars_Rover.Repo.runtimeconfig.dev.json
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/bin/Debug/netcoreapp3.1/Mars_Rover.Repo.dll
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/bin/Debug/netcoreapp3.1/Mars_Rover.Repo.pdb
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/obj/Debug/netcoreapp3.1/Mars_Rover.Repo.csproj.AssemblyReference.cache
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/obj/Debug/netcoreapp3.1/Mars_Rover.Repo.AssemblyInfoInputs.cache
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/obj/Debug/netcoreapp3.1/Mars_Rover.Repo.AssemblyInfo.cs
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/obj/Debug/netcoreapp3.1/Mars_Rover.Repo.csproj.CoreCompileInputs.cache
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/obj/Debug/netcoreapp3.1/Mars_Rover.Repo.dll
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/obj/Debug/netcoreapp3.1/Mars_Rover.Repo.pdb
+/Users/leventcafen/Projects/Mars_Rover.Repo/Mars_Rover.Repo/obj/Debug/netcoreapp3.1/Mars_Rover.Repo.genruntimeconfig.cache
